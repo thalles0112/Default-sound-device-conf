@@ -1,2 +1,2 @@
-this python programm allows the linux users, specially those who are beginners, to set a default output & input device
-in a easy way! :)
+Programa em python para configurar o dispositivo padrão de entrada/saída de audio de sistemas operacionais baseados em linux.
+
