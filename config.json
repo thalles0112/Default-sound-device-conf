@@ -1,0 +1,18 @@
+{
+    "config": {
+        "client":"thalles",
+        "version":"mySQL",
+        "first-email":"athalles80@gmail.com",
+        "second-email":"njerbio@gmail.com"
+    },
+
+    "2017":{
+        "nfce":"C:/sysloja/BANCO/nfce/xmldestinatario",
+        "nfe":"C:/sysloja/BANCO/nfc/xmldestinatario"
+    },
+
+    "mySQL":{
+        "nfce":"C:/PDV/nfce/xmldestinatario/",
+        "nfe":"C:/sysloja/nfe/xmldestinatario"
+    }
+}
